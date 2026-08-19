@@ -1,8 +1,12 @@
 <div align="center">
 
-# Aaroh Dharmadhikari
+<img src="./assets/aaroh-name.svg" alt="Aaroh Dharmadhikari" width="750">
 
 ### Full Stack Developer · AI Powered Developer
+
+B.Tech, Artificial Intelligence & Data Science — Vishwakarma University
+
+</div>
 
 B.Tech, Artificial Intelligence & Data Science — Vishwakarma University
 
