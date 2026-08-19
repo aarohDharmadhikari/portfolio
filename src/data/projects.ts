@@ -6,8 +6,9 @@ export interface Project {
   progress?: number;
   tags: string[];
   featured: boolean;
+  repoUrl?: string;
+  demoUrl?: string;
 }
-
 export const projects: Project[] = [
   {
     slug: "max-ios",
