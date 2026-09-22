@@ -6,7 +6,9 @@
 
 B.Tech, Artificial Intelligence & Data Science — Vishwakarma University
 
-</div align="center">
+</div>
+
+<div align="center">
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -45,6 +47,8 @@ The website brings these areas together through a single digital experience rath
 
 ## 🛠 Technology Stack
 
+<div align="center">
+
 | Layer | Technology |
 |---|---|
 | Framework | Next.js 14 — App Router |
@@ -58,5 +62,7 @@ The website brings these areas together through a single digital experience rath
 | Viewport Interaction | React Intersection Observer |
 | Utility Styling | clsx, tailwind-merge |
 | Fonts | Space Grotesk, Inter, JetBrains Mono |
+
+</div>
 
 ---
