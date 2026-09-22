@@ -51,8 +51,6 @@ The website brings these areas together through a single digital experience rath
 
 <div align="center">
 
-<img src="./assets/animated-tech-stack.svg" alt="Animated technology stack" width="760">
-
 | Layer | Technology |
 |---|---|
 | Framework | Next.js 14 — App Router |
