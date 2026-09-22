@@ -6,8 +6,6 @@
 
 B.Tech, Artificial Intelligence & Data Science — Vishwakarma University
 
-<img src="./assets/animated-typing-subtitle.svg" alt="Animated developer specialties" width="760">
-
 </div>
 
 <div align="center">
