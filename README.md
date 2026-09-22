@@ -8,8 +8,6 @@ B.Tech, Artificial Intelligence & Data Science — Vishwakarma University
 
 </div>
 
-B.Tech, Artificial Intelligence & Data Science — Vishwakarma University
-
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
