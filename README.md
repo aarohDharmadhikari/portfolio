@@ -6,6 +6,8 @@
 
 B.Tech, Artificial Intelligence & Data Science — Vishwakarma University
 
+<img src="./assets/animated-typing-subtitle.svg" alt="Animated developer specialties" width="760">
+
 </div>
 
 <div align="center">
@@ -48,6 +50,8 @@ The website brings these areas together through a single digital experience rath
 ## 🛠 Technology Stack
 
 <div align="center">
+
+<img src="./assets/animated-tech-stack.svg" alt="Animated technology stack" width="760">
 
 | Layer | Technology |
 |---|---|
