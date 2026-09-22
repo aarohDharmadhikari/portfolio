@@ -6,7 +6,7 @@
 
 B.Tech, Artificial Intelligence & Data Science — Vishwakarma University
 
-</div>
+</div align="center">
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
